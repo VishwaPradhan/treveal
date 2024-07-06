@@ -1,2 +1,3 @@
-# text-reveal-02
-This is for Gravity Coding youtube channel tutorial.
+# text-reveal
+This is for experimenting with unique designs and effects for the websites 
+
